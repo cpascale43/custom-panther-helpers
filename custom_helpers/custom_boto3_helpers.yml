@@ -1,0 +1,4 @@
+AnalysisType: global
+Description: Helpers for interacting with AWS resources
+Filename: custom_boto3_helpers.py
+GlobalID: "custom_boto3_helpers"

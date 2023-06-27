@@ -1,0 +1,4 @@
+AnalysisType: global
+Description: Custom helpers to handle threat context in detections
+Filename: custom_threat_helpers.py
+GlobalID: "custom_threat_helpers"
